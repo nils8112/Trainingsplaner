@@ -1,5 +1,9 @@
-# Whitelist: NUR die verschlüsselte index.html wird veröffentlicht.
+# Whitelist: NUR diese Dateien werden veröffentlicht.
 # Alles andere (trainai_v10.html = unverschlüsselt!, .claude, Notizen, Backups) bleibt lokal.
 /*
 !/.gitignore
 !/index.html
+!/manifest.webmanifest
+!/sw.js
+!/icon-192.png
+!/icon-512.png
