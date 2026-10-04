@@ -1,5 +1,5 @@
 # Whitelist: NUR diese Dateien werden veröffentlicht.
-# Alles andere (trainai_v10.html = unverschlüsselt!, .claude, Notizen, Backups) bleibt lokal.
+# Alles andere (trainai.html = unverschlüsselt!, .claude, Notizen, Backups) bleibt lokal.
 /*
 !/.gitignore
 !/index.html
